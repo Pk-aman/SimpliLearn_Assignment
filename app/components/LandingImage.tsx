@@ -45,11 +45,11 @@ function LandingImage() {
                         <div className="flex flex-col gap-2 md:gap-4 text-white">
                             <div className="flex items-center gap-2 md:gap-5">
                                 <Image src={calender} className="w-4 h-4 md:w-8 md:h-8" alt={''} />
-                                <span className="text-lg md:text-3xl font-bold font-[900]">February 20, 2026</span>
+                                <span className="text-[15px] md:text-[27px] font-bold font-[900]">February 20, 2026</span>
                             </div>
                             <div className="flex items-center gap-2 md:gap-5">
                                 <Image src={mapPin} className="w-4 h-4 md:w-8 md:h-8" alt={''} />
-                                <span className="text-lg md:text-3xl font-bold font-[900]">Chamberlain’s Steak & Fish House, Dallas</span>
+                                <span className="text-[15px] md:text-[27px] font-bold font-[900]">Chamberlain’s Steak & Fish House, Dallas</span>
                             </div>
                         </div>
                     </div>
