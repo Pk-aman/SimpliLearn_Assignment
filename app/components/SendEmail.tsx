@@ -15,7 +15,7 @@ function SendEmail() {
                     />
                 <SLButton
                     text="RSVP Now"
-                    className="text-3xl h-[45px] md:h-[81px] w-[139px] md:w-[251px] "
+                    className="text-[15px] md:text-[29px] h-[45px] md:h-[81px] w-[139px] md:w-[251px] text-white"
                     type="button"
                     style={{ backgroundColor: "var(--color-primary-orange)" }}
                 />

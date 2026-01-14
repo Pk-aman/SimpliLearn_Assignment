@@ -14,7 +14,7 @@ function SLButton({ text, onClick, className, type = "button", style }: SLButton
         <button
             type={type}
             onClick={onClick}
-            className={`text-white font-semibold px-4 py-1.5 rounded ${className}`}
+            className={`font-semibold px-4 py-1.5 rounded ${className}`}
             style={style}
         >
             {text}
